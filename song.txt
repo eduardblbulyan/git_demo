@@ -1,1 +1,2 @@
 Hello song -
+This stroke added in Web GUI
