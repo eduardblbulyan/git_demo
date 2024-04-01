@@ -4,3 +4,4 @@ Use GitKraken
 Some new thing
 
 ********New feature********
+***Second feature***
